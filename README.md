@@ -10,8 +10,7 @@
 
 > Multi-threaded hash cracking tool with dictionary, brute-force, and rule-based mutation attacks.
 > 
-<img width="1536" height="1024" alt="ChatGPT Image Apr 22, 2026, 05_21_53 PM" src="https://github.com/user-attachments/assets/955f40fa-2847-485f-ab11-0c7bbeeec11f" />
-
+<img width="1536" height="1024" alt="ChatGPT Image Apr 22, 2026, 05_42_45 PM" src="https://github.com/user-attachments/assets/9ade1a72-6ccd-4f34-961a-e68e68b052f9" />
 
 ## What It Does
 
