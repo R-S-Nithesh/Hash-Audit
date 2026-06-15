@@ -6,6 +6,7 @@
                 ██║  ██║██║  ██║███████║██║  ██║      ██║  ██║╚██████╔╝██████╔╝██║   ██║   
                 ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝      ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝   ╚═╝   
 ```
+---
 ## Overview
 
 Hash-Audit is a command-line security research utility designed for auditing password hashes. It supports automatic hash-type detection, memory-efficient wordlist processing, and parallelised cracking across all available CPU cores.
