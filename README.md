@@ -6,11 +6,11 @@
                 ██║  ██║██║  ██║███████║██║  ██║      ██║  ██║╚██████╔╝██████╔╝██║   ██║   
                 ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝      ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝   ╚═╝   
 ```
----
 ## Overview
 
 Hash-Audit is a command-line security research utility designed for auditing password hashes. It supports automatic hash-type detection, memory-efficient wordlist processing, and parallelised cracking across all available CPU cores.
 
+---
 <img width="1536" height="1024" alt="ChatGPT Image Apr 22, 2026, 05_42_45 PM" src="https://github.com/user-attachments/assets/9ade1a72-6ccd-4f34-961a-e68e68b052f9" />
 
 ---
