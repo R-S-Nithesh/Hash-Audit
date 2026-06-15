@@ -49,9 +49,7 @@ Hash-Audit is a command-line security research utility designed for auditing pas
 ## Quick Start
 
 ```bash
-hashcracker \
-  --hash 5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8 \
-  --wordlist wordlists/10k-most-common.txt
+hashcracker --hash 5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8 --wordlist wordlists/10k-most-common.txt
 
 # Output: ✔ CRACKED: password
 ```
@@ -72,26 +70,17 @@ The following hashes are included for testing and crack instantly against the bu
 
 **Dictionary attack (MD5):**
 ```bash
-hashcracker \
-  --hash 8621ffdbc5698829397d97767ac13db3 \
-  --wordlist wordlists/10k-most-common.txt
+hashcracker --hash 8621ffdbc5698829397d97767ac13db3 --wordlist wordlists/10k-most-common.txt
 ```
 
 **Dictionary attack with rule mutations (SHA1):**
 ```bash
-hashcracker \
-  --hash ed9d3d832af899035363a69fd53cd3be8f71501c \
-  --wordlist wordlists/10k-most-common.txt \
-  --rules
+hashcracker --hash ed9d3d832af899035363a69fd53cd3be8f71501c --wordlist wordlists/10k-most-common.txt --rules
 ```
 
 **Brute-force attack (SHA256, lowercase, max 8 characters):**
 ```bash
-hashcracker \
-  --hash 5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8 \
-  --bruteforce \
-  --charset lower \
-  --max-length 8
+hashcracker --hash 5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8 --bruteforce --charset lower --max-length 8
 ```
 
 ---
