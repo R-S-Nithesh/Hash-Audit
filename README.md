@@ -96,12 +96,6 @@ hashcracker \
 
 ---
 
-## Documentation
-
-In-depth coverage of security theory, architecture, and step-by-step walkthroughs is available in the [Learn Modules](#learn).
-
----
-
 ## License
 
 See [`LICENSE`](./LICENSE) for terms of use.
